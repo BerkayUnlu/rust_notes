@@ -1,1 +1,3 @@
-# rust_notes
+# Rust notes
+
+### Terminology translations
