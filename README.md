@@ -2,5 +2,6 @@
 
 ### Terminology translations
 
-* Immutable -> Sabit
-* Mutable   -> Değişken
+* Immutable            -> Sabit
+* Mutable              -> Değişken
+* Enumerations / Enums -> Sayım listesi
